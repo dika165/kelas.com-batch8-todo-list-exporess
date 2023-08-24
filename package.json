@@ -1,0 +1,16 @@
+{
+  "name": "todo-list-express",
+  "version": "1.0.0",
+  "description": "example code todo list for kelas.com batch 8",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andika E. Wiyatno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "^4.0.2"
+  }
+}
